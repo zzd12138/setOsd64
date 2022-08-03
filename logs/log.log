@@ -1,0 +1,24 @@
+2022-08-01 15:29:56  [ main:0 ] - [ INFO ]  100.12.2.89登录成功
+2022-08-01 15:29:57  [ main:401 ] - [ INFO ]  100.12.2.89获取通道信息成功
+2022-08-01 15:29:58  [ main:1679 ] - [ INFO ]  100.12.2.89保存通道名称成功
+2022-08-01 15:29:59  [ main:3295 ] - [ INFO ]  100.12.2.89返回状态<?xml version="1.0" encoding="UTF-8"?>
+<ResponseStatus version="2.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<requestURL>/ISAPI/System/Video/inputs/channels/1/overlays</requestURL>
+<statusCode>1</statusCode>
+<statusString>OK</statusString>
+<subStatusCode>ok</subStatusCode>
+</ResponseStatus>
+2022-08-01 15:29:59  [ main:3296 ] - [ INFO ]  100.12.2.89透传成功
+2022-08-01 15:29:59  [ main:3327 ] - [ INFO ]  100.12.2.89透传失败，错误号：29
+2022-08-01 15:30:01  [ main:4378 ] - [ INFO ]  100.12.2.45登录成功
+2022-08-01 15:30:01  [ main:4605 ] - [ INFO ]  100.12.2.45获取通道信息成功
+2022-08-01 15:30:02  [ main:5886 ] - [ INFO ]  100.12.2.45保存通道名称成功
+2022-08-01 15:30:04  [ main:7445 ] - [ INFO ]  100.12.2.45返回状态<?xml version="1.0" encoding="UTF-8"?>
+<ResponseStatus version="2.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<requestURL>/ISAPI/System/Video/inputs/channels/1/overlays</requestURL>
+<statusCode>1</statusCode>
+<statusString>OK</statusString>
+<subStatusCode>ok</subStatusCode>
+</ResponseStatus>
+2022-08-01 15:30:04  [ main:7446 ] - [ INFO ]  100.12.2.45透传成功
+2022-08-01 15:30:04  [ main:7495 ] - [ INFO ]  100.12.2.45透传失败，错误号：29
